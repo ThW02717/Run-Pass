@@ -62,4 +62,4 @@
 ## DEMO
   |  |  |  |
 |---|---|---|
-| ![歡迎畫面](demo/demo1.png) | ![模式選擇](demo/mode_selection.png) | ![遊戲畫面](demo/demo2.png) |
+| ![歡迎畫面](demo/demo1.jpg) | ![模式選擇](demo/mode_selection.jpg) | ![遊戲畫面](demo/demo2.png) |
