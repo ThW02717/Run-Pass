@@ -60,4 +60,6 @@
   - **SDL_mixer** – 音效與背景音樂播放  
 - **標準函式庫：** `<iostream>`, `<string>`, `<sstream>`, `<ctime>`, `<cstdlib>`, `<cmath>`
 ## DEMO
-  ![示例圖片](demo/demo1.jpg)
+  |  |  |  |
+|---|---|---|
+| ![歡迎畫面](demo/demo1.png) | ![模式選擇](demo/mode_selection.png) | ![遊戲畫面](demo/demo2.png) |
