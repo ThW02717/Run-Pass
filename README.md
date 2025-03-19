@@ -59,3 +59,5 @@
   - **SDL_ttf** – 文字渲染與字型管理  
   - **SDL_mixer** – 音效與背景音樂播放  
 - **標準函式庫：** `<iostream>`, `<string>`, `<sstream>`, `<ctime>`, `<cstdlib>`, `<cmath>`
+## DEMO
+  ![示例圖片](demo/demo1.jpg)
